@@ -9,7 +9,7 @@ public class Constant {
 //		MAX_NUM = 1000;	//final은 최종적으로 선언되기 때문에 값의 변경이 불가능하다.
 		
 		System.out.println(MAX_NUM);
-		System.out.println(MIN_NUM);
+		System.out.println(MIN_NUM); 
 	}
 
 }
