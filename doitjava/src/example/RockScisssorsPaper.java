@@ -41,7 +41,7 @@ public class RockScisssorsPaper {
 			System.out.println("life : " + life);
 
 			if(life<=0) {
-				System.out.println("³Ê´Ô Á×À½");
+				System.out.println("³Ê´Ô Á×À½¤»¤»");
 				break;
 			}
 		}

@@ -17,7 +17,7 @@ public class RockScisssorsPaper2 {
 			num = (int)(Math.random()*3);
 		
 			if(line>2) {
-			System.out.println("NOPE!");
+			System.out.println("NOPE!"); 
 			continue;
 		}
 		
