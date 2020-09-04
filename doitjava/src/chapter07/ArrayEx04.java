@@ -1,7 +1,7 @@
 package chapter07;
 
 public class ArrayEx04 {
-
+ 
 	public static void main(String[] args) {
 		int[] arr1 = {1,2,3,4,5};
 //		arr1= {10,20,30,40,50} //중괄호는 초기화할 떼만 사용이 가능하다.

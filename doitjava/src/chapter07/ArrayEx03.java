@@ -10,7 +10,7 @@ public class ArrayEx03 {
 		int arr2[]=new int[] {1,2,3,4,5,6,7,8,9,10};
 		int[] arr3=new int[10];
 		for(int i=0;i<10; i++) {
-			arr3[i] = i+1;
+			arr3[i] = i+1; 
 		}
 				
 		int sum = 0;

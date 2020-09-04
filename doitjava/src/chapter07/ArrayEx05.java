@@ -8,7 +8,7 @@ public class ArrayEx05 {
 		for(int i = 0; i<3; i++) {
 			System.out.println(iArr[i] + ":" + sArr[i]);
 		}
-		
+		 
 		int[]arr1 = {1,2};
 		int[]arr2 = {3,4};
 		int[][]array = new int[2][]; //2차원 배열
